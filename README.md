@@ -59,5 +59,8 @@ After setting up Cloudflare and GCP, you need to update the HTML file with the a
 
 2. **Ensure the API Key and Endpoint Match:**
    - Make sure that the API key and endpoint in your HTML code match those configured in your Cloudflare Worker and GCP settings.
+  
+3. **Run the HTML file**
+   - Open the "claude-chat-interface-cloudflare.html" that you just edited from this repo and it should function if you did it right.
 
 By following these steps, you’ll ensure that the HTML file correctly interfaces with your Cloudflare Worker and GCP setup.
